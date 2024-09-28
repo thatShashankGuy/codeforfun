@@ -1,6 +1,8 @@
 I try leetcode exercises daily and dump them in this repo for tracking . 
 
 |# | Title | Leetcode Number | Time | Space | Comments 
-|1 | Merge Array | [88](https://leetcode.com/problems/merge-sorted-array/description/) | O(n) | | |
-|2 | Remove Element | [27](https://leetcode.com/problems/remove-element/description/) | O(n) | | |
-|3 | Rotate Array | [189](https://leetcode.com/problems/rotate-array/description/) | O(n) | | |
+|---| ----- | --------- | ---- | ----- | -------- |
+|1 | [Merge Array](https://leetcode.com/problems/merge-sorted-array/description/) | 88 | _O(m+n)_ | _O(1)_ | |
+|2 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | 27 | _O(n)_ |_O(1)_ | |
+|3 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | 189 | O(n) |_O(1)_| |
+|4| [Reverse Words In a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 151 | O(n) |_O(n)_| |
