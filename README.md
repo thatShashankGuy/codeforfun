@@ -9,4 +9,4 @@ I try leetcode exercises daily and dump them in this repo for tracking .
 |5 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 392 | O(n) |_O(1)_| |
 |6 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | 209 | O(n) |_O(1)_| Sliding Window|
 |7 | [Group Anagram](https://leetcode.com/problems/group-anagrams/) | 49 | O(nm) |_O(om)_| dictionary|
-
+|8 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 33 | O(nm) |_O(om)_| dictionary|
