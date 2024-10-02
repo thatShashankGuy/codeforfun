@@ -1,11 +1,11 @@
 public class Solution {
     public bool IsValid(string s) {
-        Dictionary<char,char> mydict = new Dictionary<char,char> {
-            {']','['},
-            {')','('},
-            {'}','{'}
-        };
-        
+        Dictionary<char, char> mydict = new Dictionary<char,char> {
+            {'}' ,'{'},
+            {']' ,'['},
+            {')' ,'('}
+        };   
+
         Stack<char> mystack = new Stack<char>();
 
         foreach(char c in s){
@@ -15,14 +15,12 @@ public class Solution {
                 }else{
                     return false;
                 }
-            }else{
+            }
+            else{
                 mystack.Push(c);
             }
         }
 
-        if(mystack.Count == 0){
-            return true;
-        }
-        return false;
+        return mystack.Count == 0; 
     }
 }
