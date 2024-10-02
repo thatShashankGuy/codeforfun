@@ -10,3 +10,4 @@ I try leetcode exercises daily and dump them in this repo for tracking .
 |6 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | 209 | O(n) |_O(1)_| Sliding Window|
 |7 | [Group Anagram](https://leetcode.com/problems/group-anagrams/) | 49 | O(nm) |_O(om)_| dictionary|
 |8 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 33 | O(nm) |_O(om)_| dictionary|
+|9 | [Find First and Last Position in a Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 34 | _O(logn)_ |_O(1)_| Binary Search  |
