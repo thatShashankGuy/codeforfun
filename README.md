@@ -15,3 +15,4 @@ I try leetcode exercises daily and dump them in this repo for tracking .
 |11 | [Min Stack Implmentation](https://leetcode.com/problems/min-stack/) | 155 | _O(1)_ |_O(n)_| Stack|
 |12 | [Best Time to Buy and Sell Stocks 1](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 121 | _O(1)_ |_O(n)_| two Pointers|
 |13 | [Best Time to Buy and Sell Stocks 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 122 | _O(1)_ |_O(n)_| two Pointers|
+|14 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | 71 | _O(n)_ |_O(n)_| stacks|
