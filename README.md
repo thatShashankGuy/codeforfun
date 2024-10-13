@@ -1,6 +1,6 @@
 I try leetcode exercises daily and dump them in this repo for tracking . 
 
-|# | Title | Leetcode Number | Time | Space | Comments| Language 
+|# | Title | No | Time | Space | Comments| 🧑🏾‍💻  
 |---| ----- | --------- | ---- | ----- | -------- |-------- |
 |1 | [Merge Array](https://leetcode.com/problems/merge-sorted-array/description/) | 88 | _O(m+n)_ | _O(1)_ | |![python](/assets/python.png)![C#](/assets/csharp.png)|
 |2 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | 27 | _O(n)_ |_O(1)_ | |![python](/assets/python.png)![C#](/assets/csharp.png)|
